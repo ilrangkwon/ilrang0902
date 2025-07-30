@@ -1,0 +1,39 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "ecommerce",
+    "Ecommerce",
+    "Behance",
+    "behance",
+    "ilrang",
+    "Wireframing",
+    "figma",
+    "Figma",
+    "sketch",
+    "Sketch",
+    "invision",
+    "InVision",
+    "photoshop",
+    "Photoshop",
+    "illustrator",
+    "Illustrator",
+    "indesign",
+    "InDesign",
+    "prototyping",
+    "Prototyping",
+    "wireframing",
+    "Wireframing",
+    "naver",
+    "Naver",
+    "paperlogy",
+    "Paperlogy",
+    "PAPERLOGY"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "dist/**",
+    "build/**",
+    ".next/**"
+  ]
+} 
